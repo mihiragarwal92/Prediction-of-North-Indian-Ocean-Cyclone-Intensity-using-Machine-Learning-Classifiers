@@ -1,1 +1,1 @@
-# cyclone_ml
+In past years, there has been enough progress made in the forecasting of tropical cyclones. Our capacity to anticipate and get ready for these potent natural events has been completely transformed by the application of cutting-edge technologies in tropical cyclone prediction. Understanding of cyclone behaviour, track prediction, and intensity forecasts has been efficiently improved by many techniques. Different ML classifiers are used for finding best performing classifier among them. The correlation matrix of all predictors with respect to maximum wind speed
